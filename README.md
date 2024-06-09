@@ -1,15 +1,15 @@
-#📒 Descrição
+##📒 Descrição
 Estudo sobre IAs Generativas, desenvolver algumas testes com  as ferramentas do AWS Bedrock.
 
-#🤖 Tecnologias Utilizadas
+##🤖 Tecnologias Utilizadas
 Ferramentas do AWS Bedrock.
 
-#🧐 Processo de Criação
+##🧐 Processo de Criação
 Atraves de pesquisas e testes na conta da AWS.
 
-#🚀 Resultados
+##🚀 Resultados
 
-#💭 Reflexão
+##💭 Reflexão
 
 ### Template
 
